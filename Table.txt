@@ -1,0 +1,8 @@
+Loc of Previous 	Loc of Current 	Prev Random  	Curr Random 	Table Index 	No of times visited
+		5		16		4174		b3ee		37716		1
+		11		12		59da		e13e		52691		1
+		11		13		59da		fd27		53706		2
+		12		13		e13e		fd27		36280		1
+		15		16		6624		b3ee		33020		3
+		16		11		b3ee		59da		45		3
+		16		11		b3ee		b617		61408		1

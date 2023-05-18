@@ -19,7 +19,7 @@ for line in data:
     if i == 0:
         address.append(int(words[0]))
         a = int(words[0])
-        prev_address.append(a/2)
+        prev_address.append(int(a/2))
         i = 1
     else:
         if num < 6:
