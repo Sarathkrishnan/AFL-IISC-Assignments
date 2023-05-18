@@ -1,0 +1,27 @@
+start_time        : 1490243198
+last_update       : 1490244238
+fuzzer_pid        : 11636
+cycles_done       : 4286
+execs_done        : 9439399
+execs_per_sec     : 8849.28
+paths_total       : 25
+paths_favored     : 2
+paths_found       : 24
+paths_imported    : 0
+max_depth         : 4
+cur_path          : 6
+pending_favs      : 0
+pending_total     : 0
+variable_paths    : 0
+stability         : 100.00%
+bitmap_cvg        : 0.02%
+unique_crashes    : 0
+unique_hangs      : 0
+last_path         : 1490243813
+last_crash        : 0
+last_hang         : 0
+execs_since_crash : 9439399
+exec_timeout      : 20
+afl_banner        : for-class-while
+afl_version       : 2.35b
+command_line      : /home/raghavan/Courses/SEJan2017/Lectures/AFL/mafl-2.35b/afl-fuzz -i whileIn -o whileOut ./for-class-while
